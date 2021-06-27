@@ -11,6 +11,7 @@ if (!isset($_REQUEST['x'])) {
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>BIENVENIDO AL SITIO OFICIAL REFUGIO ANIMAL</title>
+    <title>CREADO CON DOCKER</title>
     <script src="Js/menu.js"> </script>
     <link rel="stylesheet" type="text/css" href="Css/login.css">
     <meta charset="utf-8">
